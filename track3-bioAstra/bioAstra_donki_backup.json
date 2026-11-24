@@ -1,0 +1,13 @@
+{
+  "source": "NASA DONKI Offline Fail-Safe Snapshot",
+  "solar_flares": [
+    {
+      "flrID": "2026-11-20T14:22:00-FLR-001",
+      "beginTime": "2026-11-20T14:22Z",
+      "peakTime": "2026-11-20T14:39Z",
+      "classType": "X1.8",
+      "sourceLocation": "N14W28",
+      "note": "Major X-class solar flare associated with fast Earth/Mars-directed CME and elevated Solar Energetic Particle flux."
+    }
+  ]
+}

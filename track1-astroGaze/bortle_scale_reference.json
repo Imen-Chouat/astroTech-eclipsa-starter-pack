@@ -1,0 +1,69 @@
+{
+  "title": "Bortle Dark-Sky Scale Reference (Classes 1 to 9)",
+  "description": "Reference data for building the guided Star-Count Test in Track 1 (AstroGaze).",
+  "classes": [
+    {
+      "class": 1,
+      "label": "Excellent Dark-Sky Site",
+      "nelm": "7.6 - 8.0",
+      "milky_way": "Casts noticeable shadows on the ground; zodiacal light and gegenschein visible.",
+      "m31_andromeda": "Clearly visible to the naked eye."
+    },
+    {
+      "class": 2,
+      "label": "Typical Truly Dark Site",
+      "nelm": "7.1 - 7.5",
+      "milky_way": "Highly structured summer Milky Way; clouds appear as dark holes against stars.",
+      "m31_andromeda": "Easily visible to the naked eye."
+    },
+    {
+      "class": 3,
+      "label": "Rural Sky",
+      "nelm": "6.6 - 7.0",
+      "milky_way": "Still appears complex; minor light domes visible on the horizon.",
+      "m31_andromeda": "Visible with direct naked-eye vision."
+    },
+    {
+      "class": 4,
+      "label": "Rural / Suburban Transition",
+      "nelm": "6.1 - 6.5",
+      "milky_way": "Impressive overhead, but lacks structure near the horizon.",
+      "m31_andromeda": "Visible with averted vision."
+    },
+    {
+      "class": 5,
+      "label": "Suburban Sky",
+      "nelm": "5.6 - 6.0",
+      "milky_way": "Washed out near the horizon; faint overhead.",
+      "m31_andromeda": "Faintly visible on clear nights."
+    },
+    {
+      "class": 6,
+      "label": "Bright Suburban Sky",
+      "nelm": "5.1 - 5.5",
+      "milky_way": "Only visible near the zenith.",
+      "m31_andromeda": "Barely detectable without binoculars."
+    },
+    {
+      "class": 7,
+      "label": "Suburban / Urban Transition",
+      "nelm": "4.6 - 5.0",
+      "milky_way": "Completely invisible.",
+      "m31_andromeda": "Requires binoculars."
+    },
+    {
+      "class": 8,
+      "label": "City Sky",
+      "nelm": "4.1 - 4.5",
+      "milky_way": "Invisible; sky glows whitish-orange.",
+      "m31_andromeda": "Difficult even with binoculars."
+    },
+    {
+      "class": 9,
+      "label": "Inner-City Sky",
+      "nelm": "<= 4.0",
+      "milky_way": "Invisible; only Moon, planets, and brightest stars visible.",
+      "m31_andromeda": "Invisible to naked eye."
+    }
+  ]
+}
